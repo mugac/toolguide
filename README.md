@@ -1,5 +1,5 @@
-Workflows -> [Workflows](.Workflows)
-Tools -> [Tools](.Tools)
+Workflows -> [Workflows](Workflows)
+Tools -> [Tools](Tools)
 
 #DONE
 - xxx
