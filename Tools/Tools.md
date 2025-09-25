@@ -1,6 +1,6 @@
-[[Tools/Cryptography/Cryptography|Cryptography]]
-[[Tools/Enumeration/Enumeration|Enumeration]]
-[[Tools/Forensic/Forensic|Forensic]]
-[[Tools/Network/Network|Network]]
-[[Tools/PWN/PWN|PWN]]
-[[Tools/Surveillance/Surveillance|Surveillance]]
+[Cryptography](.Tools/Cryptography)
+[Enumeration](.Tools/Enumeration)
+[Forensic](.Tools/Forensic)
+[Network](.Tools/Network)
+[PWN](.Tools/PWN)
+[Surveillance](.Tools/Surveillance)

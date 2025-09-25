@@ -1,6 +1,6 @@
-[[Workflows/Cryptography/Cryptography|Cryptography]]
-[[Workflows/Enumeration/Enumeration|Enumeration]]
-[[Workflows/Forensic/Forensic|Forensic]]
-[[Workflows/Network/Network|Network]]
-[[Workflows/PWN/PWN|PWN]]
-[[Workflows/Surveillance/Surveillance|Surveillance]]
+[Cryptography](.Workflows/Cryptography)
+[Enumeration](.Workflows/Enumeration)
+[Forensic](.Workflows/Forensic)
+[Network](.Workflows/Network)
+[PWN](.Workflows/PWN)
+[Surveillance](.Workflows/Surveillance)
