@@ -1,4 +1,4 @@
-# Web Enumeration Workflow
+# Web Enumeration
 
 ## Mindset pro web enumeration
 Web aplikace jsou často největší attack surface v CTF. Každá stránka, každý parametr, každá chybová hláška může být klíčem k řešení.

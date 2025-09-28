@@ -1,4 +1,4 @@
-# OSINT Techniques pro CTF
+# OSINT Techniques
 
 ## OSINT Mindset
 V CTF není OSINT jen o tom najít informace o targetu - často jsou tam schované hints, credentials nebo vektory útoku. Tvůrci často používají real-world data jako inspiraci.

@@ -1,4 +1,4 @@
-# Enumeration Workflow pro CTF
+# Enumeration Workflow
 
 ## Myšlenkový proces
 
