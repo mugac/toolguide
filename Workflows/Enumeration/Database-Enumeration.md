@@ -206,7 +206,7 @@ Next steps: Upload web shell via SELECT INTO OUTFILE
 
 ## Tool Integration
 
-*Specifické tooly v [Tools/Enumeration](/Tools/Enumeration/Enumeration.md)*
+*Specifické tooly v [Tools/Enumeration](Tools/Enumeration/Enumeration.md)*
 
 ### Connection Tools
 - **mysql client** - MySQL connections
